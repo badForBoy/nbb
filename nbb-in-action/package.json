@@ -1,0 +1,15 @@
+{
+  "name": "nbb-in-action",
+  "version": "1.0.0",
+  "description": "农爸比微信H5页面开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weixin",
+    "H5"
+  ],
+  "author": "afei",
+  "license": "ISC"
+}
